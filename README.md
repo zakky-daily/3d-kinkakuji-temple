@@ -5,7 +5,7 @@
 
 3Dに挑戦し、鳥の視点からくるくると俯瞰する動画を作成しました。
 
-ポリゴンによる3Dエンジンを一から実装することに前々から興味があったのです。
+ポリゴンによる3Dエンジンを<ins>一から</ins>実装することに前々から興味があったのです。
 
 最終出力：<br>
 ![animation.gif](https://raw.githubusercontent.com/zakky-daily/3d-kinkakuji-temple/refs/heads/main/animation.gif)
