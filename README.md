@@ -10,5 +10,8 @@
 最終出力：<br>
 ![animation.gif](https://raw.githubusercontent.com/zakky-daily/3d-kinkakuji-temple/refs/heads/main/animation.gif)
 
-プログラムの実行方法、描画計算の詳細等については、一緒に提出したレポート([assignment06.pdf](https://github.com/zakky-daily/3d-kinkakuji-temple/blob/main/assignment06.pdf))に掲載します。<br>
-(レポートは採用審査時のみ公開します。ご了承ください。)
+3D描画の計算方法などについては、一緒に提出したレポート([assignment06.pdf](https://github.com/zakky-daily/3d-kinkakuji-temple/blob/main/assignment06.pdf))に掲載します。<br>
+(レポートは採用審査時のみ公開します。ご了承ください。)<br><br>
+
+|閲覧方法　[assignment06.pdf](https://github.com/zakky-daily/3d-kinkakuji-temple/blob/main/assignment06.pdf)に記載されています。|
+|:-|
