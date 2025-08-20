@@ -8,7 +8,7 @@
 ポリゴンによる3D描画エンジンを<ins>一から</ins>実装することに前々から興味があったのです。
 
 最終出力：<br>
-![animation.gif](https://raw.githubusercontent.com/zakky-daily/3d-kinkakuji-temple/refs/heads/main/animation.gif)
+<img src="https://raw.githubusercontent.com/zakky-daily/3d-kinkakuji-temple/refs/heads/main/animation.gif" width=70%>
 
 3D描画の計算方法などについては、一緒に提出したレポート([assignment06.pdf](https://github.com/zakky-daily/3d-kinkakuji-temple/blob/main/assignment06.pdf))に掲載します。<br>
 (レポートは採用審査時のみ公開します。ご了承ください。)<br><br>
