@@ -10,4 +10,5 @@
 最終出力：<br>
 ![animation.gif](https://raw.githubusercontent.com/zakky-daily/3d-kinkakuji-temple/refs/heads/main/animation.gif)
 
-一緒に提出したレポートも掲載します(採用審査時のみ公開)。
+プログラムの実行方法、描画計算の詳細等については、一緒に提出したレポート(assignment06.pdf)に掲載してあります。<br>
+(レポートは採用審査時のみ公開します)。
